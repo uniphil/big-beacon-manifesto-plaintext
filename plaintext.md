@@ -93,15 +93,15 @@ action of our times.
 
 ### The whole new engineer
 
- 1. Finds joy in engineering and in life.
- 2. is open, trusted, and trusting.
- 3. is authentically connected with others.
- 4. is powerfully present to possibilities in the moment.
- 5. is mindful, observant, and an effective listener.
- 6. has the courage to initiate, fail, and initiate again.
- 7. is technically competent and agile.
- 8. is broadly educated and curious.
- 9. is a team player, a collaborator, and a community builder.
+1.  Finds joy in engineering and in life.
+2.  is open, trusted, and trusting.
+3.  is authentically connected with others.
+4.  is powerfully present to possibilities in the moment.
+5.  is mindful, observant, and an effective listener.
+6.  has the courage to initiate, fail, and initiate again.
+7.  is technically competent and agile.
+8.  is broadly educated and curious.
+9.  is a team player, a collaborator, and a community builder.
 10. is a designer, a creator, and a sustainer.
 11. is emotionally and socially aware and competent.
 12. is a reflective thinker and a self-directed and persistent learner.
@@ -155,13 +155,10 @@ Big Beacon is a movement, shining a light on needed change. Big Beacon is
 empowering people to come together, points of light near and far, large and
 small, to shine a collective beam seen around the world.
 
-Acting together, we are more powerful than those who would act alone.
-
-Acting together, we collaboratively disrupt a system that has defied change for
-many years.
-
-Acting together, we illuminate culture and emotion and pathways to effective
-change, cutting through the fog of a broken system.
+Acting together, we are more powerful than those who would act alone. Acting
+together, we collaboratively disrupt a system that has defied change for many
+years. Acting together, we illuminate culture and emotion and pathways to
+effective change, cutting through the fog of a broken system.
 
 Beam by sweeping beam, the fog lifts. In the clearing daylight, together we
 unleash a whole new engineering education and we bring forth generations of
